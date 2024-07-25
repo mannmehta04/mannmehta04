@@ -103,7 +103,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=d48vvf68s70bgpd0r56ypxhl5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=2fb156&bar_color_cover=true)" /></div>  
+<div align="center"><img src="https://https://spotify-github-profile.kittinanx.com/api/view?uid=d48vvf68s70bgpd0r56ypxhl5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=2fb156&bar_color_cover=true" /></div>  
 
 <br/>  
 
