@@ -8,16 +8,16 @@
 <br />
   
 
-- 🔭 I currently pursuing Bachelor's Degree in Computer Engineering.   
+- 🎓 Currently pursuing a Bachelor's Degree in Computer Engineering.  
   
 
-- 🌱 I’m sharpening my skills with programming every day(<s>almost</s>).  
+- 🌱 Always on the lookout for ways to improve my programming skills. 
   
 
-- ❓ Ask me about anything related PCs, Linux and Books!  
+- ❓ Ask me anything about PCs, Linux, and books!
   
 
-- ⚡ Fun fact: I use braces in front rather than in new line 💀  
+- ⚡ Fun fact: I switch to new Linux Distros just for fun!  
   
 
 <br/>  
@@ -81,7 +81,7 @@
 <a href="https://instagram.com/mannmehta04" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/mannmehta04" target="_blank">
+<a href="https://www.youtube.com/@mannmehta04" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -96,9 +96,9 @@
 <br/>  
 
 
-## Recent Blog Posts  
+<!-- ## Recent Blog Posts  -->
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. -->
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
