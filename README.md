@@ -91,7 +91,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mannmehta04&theme=gotham&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mannmehta04&theme=gotham&show_icons=true&hide_border=true&count_private=true&rank_icon=github" align="center" /></div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannmehta04&theme=gotham&show_icons=true&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>   
