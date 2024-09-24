@@ -91,15 +91,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mannmehta04&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mannmehta04&theme=gotham&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannmehta04&theme=gotham&show_icons=true&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
-
-<!-- ## Recent Blog Posts  -->
-<!-- BLOG-POST-LIST:START -->  
-<!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. -->
-<!-- BLOG-POST-LIST:END -->  
+<br/>   
 
 <br/>  
 
