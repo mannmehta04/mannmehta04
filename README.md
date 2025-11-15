@@ -94,13 +94,13 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mannmehta04&theme=gotham&show_icons=true&hide_border=true&count_private=true&rank_icon=github" align="center" /></div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannmehta04&theme=gotham&show_icons=true&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>   
+<!-- <br/>    -->
 
-<br/>  
+<!-- <br/>   -->
 
-<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=d48vvf68s70bgpd0r56ypxhl5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>
+<!-- <div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=d48vvf68s70bgpd0r56ypxhl5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div> -->
 
-<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=d48vvf68s70bgpd0r56ypxhl5&count=4&unique={true|1|on|yes}" /></div>
+<!-- <div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=d48vvf68s70bgpd0r56ypxhl5&count=4&unique={true|1|on|yes}" /></div> -->
 
 <br/>  
 
